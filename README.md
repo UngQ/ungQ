@@ -25,7 +25,7 @@
 
 ### 🛠️ My Technologies:
 - **Languages**: `Swift`
-- **Frameworks**: `SwiftUI`, `Reactive Swift`
+- **Frameworks**: `UIKit`, `SwiftUI`, `Reactive Swift`
 - **Tools**: `Xcode`, `Git`
 
 ### 📊 GitHub Stats:
