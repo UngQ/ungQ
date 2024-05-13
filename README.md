@@ -1,23 +1,33 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-<div align=center>
+저는 UngQ 입니다! <br>
+새로운 기술을 탐구하고 코딩 기술을 향상시키는 것을 좋아하는 열정적인 개발자입니다. <br>
+제 GitHub에 오신 것을 환영합니다!
+
+<div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUngQ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
+---
 
-<!--
-**UngQ/ungQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me:
+- 🔭 현재는 SwiftUI 기반의 애플리케이션 개발에 집중하고 있습니다.
+- 🌱 새싹 iOS(메모리스) 4기 (2023. 12. 22. ~ 2024. 05. 23.)
+- 👨🏻‍🎓 홍익대학교 신소재공학(HongIk Univ. Materials Science Engineering) 학사 졸업
 
-Here are some ideas to get you started:
+### 🗒️ My Projects:
+- 🇰🇷 NuriROCK(樂) - 한국을 즐기자! (2024. 03. 08. ~ 2024. 03. 24., [AppStore](https://apps.apple.com/kr/app/nurirock-%E6%A8%82-%ED%95%9C%EA%B5%AD%EC%9D%84-%EC%A6%90%EA%B8%B0%EC%9E%90/id6479728531) 출시) : `Codebase UIKit`
+- 🕹️ Buy Or Not (살까요? 말까요?) (2024. 04. 13. ~ 2024. 05. 05., [README](https://github.com/UngQ/BuyOrNot?tab=readme-ov-file#%EF%B8%8Fbuy-or-not-%EC%82%B4%EA%B9%8C%EC%9A%94-%EB%A7%90%EA%B9%8C%EC%9A%94)) : `Reactive Swift`, `Client-Server Project`
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Technologies:
+- **Languages**: `Swift`
+- **Frameworks**: `SwiftUI`, `Reactive Swift`
+- **Tools**: `Xcode`, `Git`
+
+### 📊 GitHub Stats:
+![UngQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=UngQ&hide=contribs,prs&show_icons=true&theme=highcontrast)
+---
