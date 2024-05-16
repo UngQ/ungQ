@@ -28,5 +28,5 @@
 - **Tools**: `Xcode`, `Git`
 
 ### 📊 GitHub Stats:
-![UngQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=UngQ&hide=contribs,prs&show_icons=true&theme=highcontrast)
+![UngQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=UngQ&hide=contribs,prs&show_icons=true&count_private=true&theme=highcontrast)
 ---
