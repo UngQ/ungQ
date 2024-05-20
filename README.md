@@ -20,7 +20,7 @@
 
 ### 🗒️ My Projects:
 - 🇰🇷 NuriROCK(樂) - 한국을 즐기자! (2024. 03. 08. ~ 2024. 03. 24., [README](https://ungq.notion.site/NuriROCK-b4b6c86d198e4b0f90b2a657574eef1f?pvs=74), [AppStore](https://apps.apple.com/kr/app/nurirock-%E6%A8%82-%ED%95%9C%EA%B5%AD%EC%9D%84-%EC%A6%90%EA%B8%B0%EC%9E%90/id6479728531) 출시) : `Codebase UIKit`
-- 🕹️ Buy Or Not (살까요? 말까요?) (2024. 04. 13. ~ 2024. 05. 05., [README](https://github.com/UngQ/BuyOrNot?tab=readme-ov-file#%EF%B8%8Fbuy-or-not-%EC%82%B4%EA%B9%8C%EC%9A%94-%EB%A7%90%EA%B9%8C%EC%9A%94)) : `Reactive Swift`, `Client-Server Project`
+- 🕹️ Buy Or Not (살까요? 말까요?) (2024. 04. 13. ~ 2024. 05. 05., [README](https://github.com/UngQ/BuyOrNot?tab=readme-ov-file#%EF%B8%8Fbuy-or-not-%EC%82%B4%EA%B9%8C%EC%9A%94-%EB%A7%90%EA%B9%8C%EC%9A%94), **LSLP 수상작**) : `Reactive Swift`, `Client-Server Project` 
   
 ---
 
