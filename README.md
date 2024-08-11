@@ -12,7 +12,6 @@
 ---
 
 ### 🚀 About Me:
-- 📱 NeuroCircuit(뉴로서킷) iOS/Flutter Mobile Engineer (2024. 08. 01. ~ )
 - 🌱 SeSAC iOS Memolease 4기 수료 (2023. 12. 22. ~ 2024. 05. 23.)
 - 👨🏻‍🎓 홍익대학교 신소재공학(HongIk Univ. Materials Science Engineering) 학사 졸업
 
