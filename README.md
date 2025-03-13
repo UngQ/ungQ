@@ -24,6 +24,6 @@
 ---
 
 ### 🛠️ My Technologies:
-- **Languages**: `Swift`
-- **Frameworks**: `UIKit`, `SwiftUI`, `Reactive Swift`
-- **Tools**: `Xcode`, `Git`
+- **Languages**: `Swift`, `ABAP`, `HTML`, `XML`, `CSS`, `JavaScript`, `JSON`, `SQL` 
+- **Frameworks**: `UIKit`, `SwiftUI`, `Reactive Swift`, `SAP UI5`
+- **Tools**: `Xcode`, `SAP GUI`, `VSCode`, `Eclipse`, `Git`
