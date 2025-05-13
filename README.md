@@ -4,11 +4,6 @@
 새로운 기술을 탐구하고 코딩 기술을 향상시키는 것을 좋아하는 열정적인 개발자입니다. <br>
 제 GitHub에 오신 것을 환영합니다!
 
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUngQ&count_bg=%2379C83D&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
 ---
 
 ### 🚀 About Me:
