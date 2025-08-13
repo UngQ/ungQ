@@ -1,13 +1,11 @@
 ### 안녕하세요 👋
 
 저는 UngQ 입니다! <br>
-새로운 기술을 탐구하고 코딩 기술을 향상시키는 것을 좋아하는 열정적인 개발자입니다. <br>
-제 GitHub에 오신 것을 환영합니다!
 
 ---
 
 ### 🚀 About Me:
-- 🌱 SeSAC iOS Memolease 4기 수료 (2023. 12. 22. ~ 2024. 05. 23.)
+- 🌱 SeSAC iOS Memolease 4기 수료 (2023. 12. ~ 2024. 05.)
 - 👨🏻‍🎓 홍익대학교 신소재공학(HongIk Univ. Materials Science Engineering) 학사 졸업
 
 ---
