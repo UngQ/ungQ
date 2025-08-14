@@ -4,12 +4,6 @@
 
 ---
 
-### 🚀 About Me:
-- 🌱 SeSAC iOS Memolease 4기 수료 (2023. 12. ~ 2024. 05.)
-- 👨🏻‍🎓 홍익대학교 신소재공학(HongIk Univ. Materials Science Engineering) 학사 졸업
-
----
-
 ### 🗒️ My Projects:
 - (2025. 03. ~ 2025. 06.) 🥩 육가공 및 유통 업체 SAP ERP 시스템 구축 ([발표 PPT](https://sapgu2.my.canva.site/), `ABAP`, `UI5`)
 - (2024. 04. ~ 2024. 05.) 🕹️ Buy Or Not (살까요? 말까요?) ([README](https://github.com/UngQ/BuyOrNot?tab=readme-ov-file#%EF%B8%8Fbuy-or-not-%EC%82%B4%EA%B9%8C%EC%9A%94-%EB%A7%90%EA%B9%8C%EC%9A%94), **LSLP 수상작** : `Reactive Swift`, `Client-Server Project`)
