@@ -5,6 +5,7 @@
 ---
 
 ### 🗒️ My Projects:
+- (2025. 11. ~ 2026. 04.) 🍖 CJ 제일제당 SAP C2C Proj. Senior Developer
 - (2025. 03. ~ 2025. 06.) 🥩 육가공 및 유통 업체 SAP ERP 시스템 구축 ([발표 PPT](https://sapgu2.my.canva.site/), `ABAP`, `UI5`)
 - (2024. 04. ~ 2024. 05.) 🕹️ Buy Or Not (살까요? 말까요?) ([README](https://github.com/UngQ/BuyOrNot?tab=readme-ov-file#%EF%B8%8Fbuy-or-not-%EC%82%B4%EA%B9%8C%EC%9A%94-%EB%A7%90%EA%B9%8C%EC%9A%94), **LSLP 수상작** : `Reactive Swift`, `Client-Server Project`)
 - (2024. 03. ~ 2024. 04.) 🌏 NuriROCK(樂) - 한국을 즐기자! ([README](https://github.com/UngQ/NuriRock?tab=readme-ov-file#nurirock%E6%A8%82---%ED%95%9C%EA%B5%AD%EC%9D%84-%EC%A6%90%EA%B8%B0%EC%9E%90), ~~[AppStore](https://apps.apple.com/kr/app/nurirock-%E6%A8%82-%ED%95%9C%EA%B5%AD%EC%9D%84-%EC%A6%90%EA%B8%B0%EC%9E%90/id6479728531) 출시~~ : `Codebase UIKit`)
